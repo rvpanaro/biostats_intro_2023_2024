@@ -1,0 +1,13 @@
+"Experimental Unit","Health_Status","Disease_Group","Nicotin_Abuse","Number_of_Metastases","Body_Height"
+1,"Healthy","Control","none",0,186.0
+2,"Healthy","Control","low",0,146.0
+3,"Healthy","Control","low",0,176.0
+4,"Healthy","Control","none",0,165.0
+5,"Diseased","TypeA","low",5,165.0
+6,"Diseased","TypeA","high",8,174.0
+7,"Diseased","TypeA","high",3,171.0
+8,"Diseased","TypeA","low",6,180.0
+9,"Diseased","TypeB","none",5,167.0
+10,"Diseased","TypeB","low",0,149.0
+11,"Diseased","TypeB","high",1,187.0
+12,"Diseased","TypeB","high",2,177.0
