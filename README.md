@@ -11,6 +11,9 @@
 
 ## Datasets
 
+- [BodyHealth](https://raw.githubusercontent.com/rvpanaro/biostats_intro_2023_2024/main/BodyHealth.csv) 
+This dataset contains information on 12 individuals' health status (healthy or diseased), disease groups (control, Type A, Type B), nicotine abuse levels (none, low, high), the number of metastases (ranging from 0 upwards), and their body heights (measured in centimeters), enabling research into health-related patterns and correlations.
+
 - [ToothGrowth](https://raw.githubusercontent.com/rvpanaro/biostats_intro_2023_2024/main/ToothGrowth.csv)
   
 ToothGrowth {datasets}: The response is the length of odontoblasts (cells responsible for tooth growth) in 60 guinea pigs. Each animal received one of three dose levels of vitamin C (0.5, 1, and 2 mg/day) by one of two delivery methods, orange juice or ascorbic acid (a form of vitamin C and coded as VC).
