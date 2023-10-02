@@ -3,6 +3,8 @@
 ## Recommended Books
 -  [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/biostat/)
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
+- [CHANCE ENCOUNTERS: A First Course in Data Analysis and Inference](https://www.stat.auckland.ac.nz/~wild/ChanceEnc/Ch10.wilcoxon.pdf) 
+   (Chapter 10: The Wilcoxon Rank-Sum Test)
 
 ## Jamovi Resources 
 - [Jamovi installation](https://docs.jamovi.org/_pages/um_1_installation.html) 
